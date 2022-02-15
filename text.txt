@@ -1,0 +1,13 @@
+font muli form google font ;
+import img form img;
+home and  about page is same but data is diffrent 
+about page data 
+h1: welcome to about page:
+click on button '/contact"
+btn name contact me:
+
+
+services page :
+
+
+
