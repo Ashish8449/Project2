@@ -13,6 +13,12 @@ export default function Servise() {
             <div className="row g-3">
               <Card />
               <Card />
+              <Card /> <Card />
+              <Card />
+              <Card /> <Card />
+              <Card />
+              <Card /> <Card />
+              <Card />
               <Card />
             </div>
           </div>
