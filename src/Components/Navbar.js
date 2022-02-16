@@ -1,7 +1,7 @@
 // import React from "react";
-import * as ReactDOM from "react-dom";
 
-import { Routes, Route, Link } from "react-router-dom";
+
+import {  Link } from "react-router-dom";
 
 export default function Navbar() {
   return (
