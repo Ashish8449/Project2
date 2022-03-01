@@ -23,7 +23,7 @@ export default function Common(props) {
               <div className="col-md-6 pt-5 pt-lg-0  order-1 order-lg-2 headerimg">
                 <img
                   src={props.img}
-                  alt=""
+                
                   className="img-fluid animated"
                   alt="homeimg"
                 />
